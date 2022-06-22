@@ -1,4 +1,4 @@
 <div style="display:inline_block"><br>
-   <img src="/Docs/euroamerican.png" alt="Euroamerican"/>
-  <img src="/Docs/qualyvinil.png" alt="Qualyvinil"/>
+   <img align="center" alt="Euroamerican" height="30" width="40" src="/Docs/euroamerican.png"/>
+   <img align="center" alt="Qualyvinil" height="30" width="40" src="/Docs/qualyvinil.png"/>
 </div>
