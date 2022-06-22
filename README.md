@@ -1,3 +1,3 @@
 <div style="display:inline_block"><br>
-  <img src="/docs/qualyvinil.png" alt="Qualyvinil"/>
+  <img src="/Docs/qualyvinil.png" alt="Qualyvinil"/>
 </div>
